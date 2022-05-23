@@ -1,0 +1,34 @@
+body {
+    background-color: hsl(0, 0%, 98%);
+    font-family: 'Epilogue';
+}
+.btmg {
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.para {
+    margin-top: 50px;
+    font-size: 18px;
+    color: hsl(0, 0%, 41%);
+}
+.header1 {
+    font-weight: 700;
+}
+.navbar-brand {
+    font-weight: 600;
+}
+#paintblack {
+    color: hsl(0, 0%, 41%);
+}
+#paintblack:hover {
+    color: hsl(0, 0%, 8%);
+} 
+.dropdown-menu {
+    line-height: 40px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: hsl(0, 0%, 41%);
+}
+.navbar-light .navbar-nav .nav-link.active:hover {
+    color: hsl(0, 0%, 8%);
+}
